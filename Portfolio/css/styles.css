@@ -4,17 +4,16 @@ header{
   padding:32px 0;
   margin: 0 ;
 }
-.introduction h1{
+.introduction p1{
+  font-size: 38px;
   font-family: Fantasy;
   color: rgb(55, 0, 255);
 }
 
 .container{
-  
   width:400px;
-  margin-left: auto;
-  margin-right: auto;
   display: flex;
+  margin: auto;
 }
 
 .icon{
@@ -29,7 +28,7 @@ header{
 
 .introduction{
   margin-left: 30px;
-
+  padding-top: 30px;
 }
 
 
